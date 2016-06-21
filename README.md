@@ -1,1 +1,1 @@
-### See https://github.com/Maorninja/Guide/wiki
+### See https://github.com/maorninja/Guide/wiki
